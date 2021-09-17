@@ -10,5 +10,6 @@ public class BusinessController {
     public static void main(String[] args) {
         System.out.println("ddhhd");
         System.out.println("tetetet");
+        System.out.println("hot-fix test");
     }
 }
